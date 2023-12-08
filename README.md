@@ -14,8 +14,6 @@
 
 ![histograms prelim](/docs/assets/images/histogram_prelim.png)
 
-แต่เมื่อเราจะคิดว่า... นี่มันแค่ผลด่วนหรอก แต่ละ wallet เค้าต้องมี tokens กั๊กอยู่อีกเท่าไหร่ นั่นแหละที่จะส่งผลต่อผล GE4 อย่างแท้จริง ...ใช่ครับ ณ ตอนนั้น บาง wallets ก็เก็บ tokens ไว้หลักพัน หรือหลักหมื่นแล้ว แต่ปัจจุบันสถานการณ์จะเป็นยังไง ไปดูกันต่อครับ
-
 # ผลด่วนครั้งที่ 2
 
 ![prelim results 2](/docs/assets/images/GE4_prelim_2.jpg)
@@ -24,13 +22,14 @@
 
 # ก่อนจะประกาศผล...
 
-ตอน GE3 มีการโหวตรวม 1,093,074.36 tokens tokens ละ 83.33 บาท รวมเป็น 91,085,886.41 บาท ส่วน GE4 มีการโหวตไป  1,239,678.836 tokens tokens ละ 68 บาท รวมเป็น 84,298,160.85 บาท (โดยประมาณ) ซึ่งถึงจะน้อยกว่า GE3 ที่ยังมี BNK48 รุ่นที่ 1 อยู่ไปประมาณ 6.788 ล้านบาท แต่ 84 ล้านบาทในช่วงเวลาที่แฟนคลับหายไปจำนวนมากก็ถือว่าแฟนคลับที่ยังอยู่ก็ยังเหนียวแน่นมากๆ
+ตอน GE3 มีการโหวตรวม 1,093,074.36 tokens tokens ละ 83.33 บาท รวมเป็น 91,085,886.41 บาท ส่วน GE4 มีการโหวตไป  1,239,678.836 tokens tokens ละ 68 บาท รวมเป็น 84,298,160.85 บาท (โดยประมาณ) ซึ่งถึงจะน้อยกว่า GE3 ที่ยังมี BNK48 รุ่นที่ 1 อยู่ไปประมาณ 6.788 ล้านบาท แต่ 84 ล้านบาทในช่วงเวลาที่แฟนคลับหายไปจำนวนมากก็ถือว่าแฟนคลับที่ยังอยู่ก็ยังเหนียวแน่นอยู่ (แต่ก็มี tokens จำนวนมากที่แปลงมาจาก BNK tokens)
 
 ![votes over time](docs/assets/images/GE4_transfer_amount.png)
 ![cumulative votes over time](docs/assets/images/GE4_cumulative_vote.png)
 
 และนี่คือจำนวนการโหวตของแต่ละ wallet หลังจากปิดโหวตไปแล้ว ซึ่งใครโหวตใคร เมื่อ อฟช ปล่อยข้อมูลการโหวตออกมาแล้ว เราก็น่าจะรู้กัน
 
-![pie chart now](docs/assets/images/piechart_vote_wallet_final.png)
+![histogram final](docs/assets/images/histogram_vote_wallet_final.png)
+![pie chart final](docs/assets/images/piechart_vote_wallet_final.png)
 
 
