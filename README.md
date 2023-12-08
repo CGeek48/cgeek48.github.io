@@ -29,8 +29,8 @@
 ![votes over time](docs/assets/images/GE4_transfer_amount.png)
 ![cumulative votes over time](docs/assets/images/GE4_cumulative_vote.png)
 
-และนี่คือจำนวนการโหวตของแต่ละ wallet หลังจากปิดโหวตไปแล้ว(รอเปลี่ยนรูป) ซึ่งใครโหวตใคร เมื่อ อฟช ปล่อยข้อมูลการโหวตออกมาแล้ว เราก็น่าจะรู้กัน
+และนี่คือจำนวนการโหวตของแต่ละ wallet หลังจากปิดโหวตไปแล้ว ซึ่งใครโหวตใคร เมื่อ อฟช ปล่อยข้อมูลการโหวตออกมาแล้ว เราก็น่าจะรู้กัน
 
-![pie chart now](docs/assets/images/piechart_vote_wallet_now.png)
+![pie chart now](docs/assets/images/piechart_vote_wallet_final.png)
 
 
