@@ -14,22 +14,40 @@
 
 ![histograms prelim](/docs/assets/images/histogram_prelim.png)
 
-# ผลด่วนครั้งที่ 2
+## ผลด่วนครั้งที่ 2
 
 ![prelim results 2](/docs/assets/images/GE4_prelim_2.jpg)
 
 วันที่ 1 ธ.ค. 2566 ก็มีการประกาศ[ผลด่วนครั้งที่ 2](https://www.facebook.com/photo/?fbid=920875399397107&set=a.331457648338888) ซึ่งก็ประกาศอย่างเซอไพรส์เมมเบอร์ 
 
-# ก่อนจะประกาศผล...
+# ผลอย่างเป็นทางการ
+![Senbutsu](/docs/assets/images/GE4_final_1.jpg)
+![Undergirls](/docs/assets/images/GE4_final_2.jpg)
+![Nextgirls](/docs/assets/images/GE4_final_3.jpg)
 
-ตอน GE3 มีการโหวตรวม 1,093,074.36 tokens tokens ละ 83.33 บาท รวมเป็น 91,085,886.41 บาท ส่วน GE4 มีการโหวตไป  1,239,678.836 tokens tokens ละ 68 บาท รวมเป็น 84,298,160.85 บาท (โดยประมาณ) ซึ่งถึงจะน้อยกว่า GE3 ที่ยังมี BNK48 รุ่นที่ 1 อยู่ไปประมาณ 6.788 ล้านบาท แต่ 84 ล้านบาทในช่วงเวลาที่แฟนคลับหายไปจำนวนมากก็ถือว่าแฟนคลับที่ยังอยู่ก็ยังเหนียวแน่นอยู่ (แต่ก็มี tokens จำนวนมากที่แปลงมาจาก BNK tokens)
+ผลอย่างเป็นทางการก็ประกาศไปแล้ว ([senbutsu](https://www.facebook.com/bnk48official/posts/pfbid02KKzUqhWL2v1zmakfkCDnZzjUAKQe5WERVL3AMsfdEzo9WCvcmkySKNCCmbZ6MFxpl), [under girls](https://www.facebook.com/bnk48official/posts/pfbid022zvSbQ5s3uw7B3XuRJoKVYRyznNEpXLac8hfHTh8ZLSY7jq52iEYWMWC2zJoucL5l), [next girls](https://www.facebook.com/bnk48official/posts/pfbid029Ys5NUonr9KdHhSJGM27MFkKXFZakkpdwb6ajM7j2tKjMXwVst7jYuDU2bNT7BE1l))
+ตอน GE3 มีการโหวตรวม 1,093,074.36 tokens tokens ละ 83.33 บาท รวมเป็น 91,085,886.41 บาท ส่วน GE4 มีการโหวตไป 1,239,678.836 tokens tokens ละ 68 บาท รวมเป็น 84,298,160.85 บาท (โดยประมาณ) ซึ่งถึงจะน้อยกว่า GE3 ประมาณ 6.788 ล้านบาท
 
+## ปริมาณการโหวตตามเวลา
+### คะแนนโหวตตามเวลา
 ![votes over time](docs/assets/images/GE4_transfer_amount.png)
+### คะแนนโหวตตามเวลาแบบสะสม: รวม
 ![cumulative votes over time](docs/assets/images/GE4_cumulative_vote.png)
 
-และนี่คือจำนวนการโหวตของแต่ละ wallet หลังจากปิดโหวตไปแล้ว ซึ่งใครโหวตใคร เมื่อ อฟช ปล่อยข้อมูลการโหวตออกมาแล้ว เราก็น่าจะรู้กัน
+### คะแนนโหวตตามเวลารายวันแบบสะสม: Kami 7
+![cumulative votes over time](docs/assets/images/GE4_daily_cumsum_1.png)
 
+### คะแนนโหวตตามเวลาแบบสะสม: อันดับ 7-16
+![cumulative votes over time](docs/assets/images/GE4_cumulative_vote_2.png)
+
+## การเปลี่ยนแปลงอันดับตามเวลา
+### Kami 7
+![rank over time](docs/assets/images/GE4_daily_ranking_1.png)
+### Senbutsu 7-16
+
+# จำนวนการโหวตต่อกระเป๋า
 ![histogram final](docs/assets/images/histogram_vote_wallet_final.png)
 ![pie chart final](docs/assets/images/piechart_vote_wallet_final.png)
+
 
 
